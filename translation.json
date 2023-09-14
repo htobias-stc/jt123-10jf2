@@ -1,0 +1,118 @@
+{
+  "consent_center": [
+    {
+      "id": "text_intro",
+      "type": 4,
+      "show": true,
+      "mandatory": null,
+      "asset": null,
+      "can_be_checked": null
+    },
+    {
+      "id": "global_switch",
+      "type": 99,
+      "show": true,
+      "mandatory": null,
+      "asset": null,
+      "can_be_checked": true
+    },
+    {
+      "id": "group_marketing",
+      "type": 2,
+      "show": true,
+      "mandatory": null,
+      "asset": null,
+      "can_be_checked": null
+    },
+    {
+      "id": "item_newsletter",
+      "type": 1,
+      "show": true,
+      "mandatory": true,
+      "asset": "servicecheckbox9.jpg",
+      "can_be_checked": true
+    },
+    {
+      "id": "item_survey",
+      "type": 1,
+      "show": true,
+      "mandatory": false,
+      "asset": "servicecheckbox8.jpg",
+      "can_be_checked": true
+    },
+    {
+      "id": "item_benefits",
+      "type": 1,
+      "show": true,
+      "mandatory": false,
+      "asset": "servicecheckbox7.jpg",
+      "can_be_checked": true
+    },
+
+    {
+      "id": "group_other",
+      "type": 2,
+      "show": true,
+      "mandatory": null,
+      "asset": null,
+      "can_be_checked": null
+    },
+    {
+      "id": "item_1",
+      "type": 1,
+      "show": true,
+      "mandatory": false,
+      "asset": "servicecheckbox6.jpg",
+      "can_be_checked": true
+    },
+    {
+      "id": "item_2",
+      "type": 1,
+      "show": true,
+      "mandatory": false,
+      "asset": "servicecheckbox5.jpg",
+      "can_be_checked": true
+    },
+
+    {
+      "id": "item_stand_alone_1",
+      "type": 1,
+      "show": true,
+      "mandatory": false,
+      "asset": "servicecheckbox4.jpg",
+      "can_be_checked": true
+    },
+    {
+      "id": "item_stand_alone_2",
+      "type": 1,
+      "show": true,
+      "mandatory": false,
+      "asset": "servicecheckbox3.jpg",
+      "can_be_checked": true
+    },
+    {
+      "id": "text_terms_and_conditions",
+      "type": 4,
+      "show": true,
+      "mandatory": null,
+      "asset": null,
+      "can_be_checked": null
+    },
+    {
+      "id": "checkbox_main_consent",
+      "type": 3,
+      "show": true,
+      "mandatory": true,
+      "asset": null,
+      "can_be_checked": true
+    },
+    {
+      "id": "text_footer",
+      "type": 4,
+      "show": true,
+      "mandatory": null,
+      "asset": null,
+      "can_be_checked": null
+    }
+  ]
+}
